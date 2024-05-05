@@ -1,1 +1,1 @@
-# cloud-project
+a simple project that creates a webserver that shows my teams data using php and connecting it to database that's been created using phpmyadmin and using html to edit the php's local host interface to a better view and adding css effects to the local host to make it more appealing and using docker to containarize each of the webserver and the database to make it compatable and suitable to work on any device 
